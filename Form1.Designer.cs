@@ -293,9 +293,9 @@
             // 
             // butLimpio
             // 
-            this.butLimpio.Location = new System.Drawing.Point(494, 551);
+            this.butLimpio.Location = new System.Drawing.Point(457, 42);
             this.butLimpio.Name = "butLimpio";
-            this.butLimpio.Size = new System.Drawing.Size(28, 72);
+            this.butLimpio.Size = new System.Drawing.Size(159, 141);
             this.butLimpio.TabIndex = 28;
             this.butLimpio.Text = "Limpiar";
             this.butLimpio.UseVisualStyleBackColor = true;

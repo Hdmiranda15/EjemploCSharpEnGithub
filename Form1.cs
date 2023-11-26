@@ -77,7 +77,9 @@ namespace TresEnUno
 
         private void butLimpio_Click(object sender, EventArgs e)
         {
-            
+            textProduNeto.Text = "";//asignando valor "Vacios" .
+            textSueldo.Text = "";//asignando valor "Vacios" .
+            textDescue.Text = "";//asignando valor "Vacios" .
 
         }
 
